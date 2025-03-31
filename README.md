@@ -7,5 +7,8 @@ Java Programs
 4.Object-Oriented Programming - Employee Management System Design a simple Java class Employee with the following attributes: • id (integer) • name (string) • salary (double) Create a method displayDetails() to print employee details. Write a main method to:
 
   i.Create at least 3 Employee objects.
+  
   ii.Store them in a list.
+  
   iii.Display their details.
+  
